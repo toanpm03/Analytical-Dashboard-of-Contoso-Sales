@@ -1,5 +1,5 @@
-# Analytical-Dashboard-of-Contoso-Sales
-Contoso
+# Analytical Dashboard of Contoso Sales
+
 BECAUSE DATASET SIZE TOO LARGE, I CAN NOT UPLOAD FILE IN HERE SO I EMBARGED LINK DATASET BELOW
 LINK DATASET REFERENCE HERE:
 https://docs.google.com/spreadsheets/d/1ekZraJPWYGWRGapiI5m48b88ZdmKtURoS00oR2hnukI/edit#gid=0
